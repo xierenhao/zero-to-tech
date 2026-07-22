@@ -1,0 +1,4 @@
+node\_modules/
+.next/
+.env
+dist
