@@ -1,4 +1,5 @@
-node\_modules/
+node_modules/
 .next/
 .env
 dist
+out/
